@@ -8,4 +8,6 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
+  </br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danchou-san&theme=dracula&card_width=500px" />
 </div>
