@@ -15,6 +15,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danchou-san&theme=dracula&card_width=500px" />
 </div>
 
+</br>
+</br>
+
 <div id="badges">
   <h2>🛠️ Programming Languages & Tools I Know</h2>
   <div>
