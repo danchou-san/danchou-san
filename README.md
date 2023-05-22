@@ -12,7 +12,7 @@
   
   </br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danchou-san&theme=dracula&card_width=350px&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danchou-san&theme=dracula&card_width=360px&layout=compact" />
 
 </div>
 
