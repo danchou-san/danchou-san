@@ -1,14 +1,3 @@
-<style>
-      img {
-         pointer-events: none;
-         height: 250px;
-         width: 250px;
-         background-color: blue;
-         border-radius: 50%;
-         display: inline-block;
-      }
-   </style>
-
 <div id="header" align="center">
   <a href="https://github.com/danchou-san">
     <img src="https://komarev.com/ghpvc/?username=danchou-san&style=for-the-badge&color=blueviolet" alt=""/>
