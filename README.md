@@ -10,13 +10,13 @@
     </a>
   </div>
   
-  </br>
+  <br/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danchou-san&theme=dracula&card_width=360px&layout=compact" />
 
 </div>
 
-</br>
+<br/>
 
 <div id="badges" align="center">
   <h2>🛠️ Programming Languages & Tools I Know</h2>
@@ -46,7 +46,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   </div>
   
-  </br>
+  <br/>
   
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -56,7 +56,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="Symfony" alt="Symfony" width="40" height="40"/>&nbsp;
   </div>
   
-  </br>
+  <br/>
   
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
@@ -64,7 +64,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   </div>
   
-  </br>
+  <br/>
   
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
