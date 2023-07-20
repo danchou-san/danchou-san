@@ -9,9 +9,8 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-  
+  <img src="https://github.com/danchou-san/danchou-san/assets/43781961/2a20a839-be5d-4431-b1bb-e715d1f0986e" />
   <br/>
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danchou-san&theme=dracula&card_width=360px&layout=compact" />
 
 </div>
