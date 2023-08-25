@@ -5,6 +5,9 @@
   <h1>Welcome, I'm <a href="">Ariano Wongsosetro</a>!</h1>
   
   <div id="badges">
+    <a href="https://arianowong.com/">
+      <img src="https://img.shields.io/badge/Portfolio_Website-F23D4C?style=for-the-badge&logo=typescript&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
     <a href="https://www.linkedin.com/in/ariano-wongsosetro-b7baa5133/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
